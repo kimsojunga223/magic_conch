@@ -37,3 +37,25 @@
 |<p align="center"><img src="https://user-images.githubusercontent.com/83069299/175293286-7ffbf37e-8626-4bd1-b7a8-baaf4d5b6419.gif" width=60%/></p> |<p align="center"><img src="https://user-images.githubusercontent.com/83069299/175293352-98dabba9-26e0-4374-9f8b-f503957e6020.gif" width=60%/></p> |
 
 
+## 😎 세부기능 😎
+|<p align="center">회원관리</p>|<p align="center">일기 관리</p>|<p align="center">커뮤니티 관리</p>|
+|------|------|------|
+|<p align="center">회원 가입</p> |<p align="center">일기 음성 녹음</p> |<p align="center">일기 검색</p> |
+|<p align="center">회원정보 수정</p> |<p align="center">텍스트 수정</p> |<p align="center">공감</p> |
+|<p align="center">회원 탈퇴</p> |<p align="center">이미지 등록</p> |<p align="center">일기 신고</p> |
+|<p align="center">회원정보 조회</p> |<p align="center">감정 태그 수정</p> |
+|<p align="center">로그인</p> |<p align="center">태그 설정</p> |
+|<p align="center">로그아웃</p> |<p align="center">공개 범위 설정</p> |
+|<p align="center"></p> |<p align="center">일기 저장</p> |
+|<p align="center"></p> |<p align="center">일기 수정</p> |
+|<p align="center"></p> |<p align="center">일기 삭제</p> |
+|<p align="center"></p> |<p align="center">일기 목록 조회</p> |
+|<p align="center"></p> |<p align="center">일기 조회</p> |
+
+
+
+
+
+
+
+
